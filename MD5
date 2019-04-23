@@ -1,4 +1,4 @@
-bf051f4d72c614b4eca45b7992663367 *DESCRIPTION
+eb054515f41134681043ec886277ccfa *DESCRIPTION
 352395dd73a6b39272adfd871921b13e *NAMESPACE
 31d8ad0a5a91f70552784ba75ec9f05b *NEWS
 bee5140c21497bb405c54570474b313a *R/cd09-bimIndex.R
@@ -6,8 +6,8 @@ bee5140c21497bb405c54570474b313a *R/cd09-bimIndex.R
 6f1b77e188645dd1964d7efbe035efd3 *build/vignette.rds
 32a0bcc4621f5be94da503d19df09f86 *inst/doc/bim.R
 7cc332a5bf385339e5cd8821b7085290 *inst/doc/bim.Rnw
-004156250578b66f2a0daaf58f082ad0 *inst/doc/bim.pdf
+4a653f01977558d9be7a12de1122e6b4 *inst/doc/bim.pdf
 ac1b2f494d58a71a39d05348eda6140c *man/cd09-0-bimIndex.Rd
-2cd620c76a77e8759a19552cbe0485f8 *tests/test09-bimodal.R
-2c5d0477e7af4ea88716d9c8667890ac *tests/test09-bimodal.Rout.save
+1fabc9928df61eea853dbec28afb9f0e *tests/test09-bimodal.R
+c290e861597807e7fe246b04998b4b41 *tests/test09-bimodal.Rout.save
 7cc332a5bf385339e5cd8821b7085290 *vignettes/bim.Rnw
