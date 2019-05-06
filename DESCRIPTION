@@ -1,6 +1,6 @@
 Package: BimodalIndex
-Version: 1.1.8
-Date: 2019-04-23
+Version: 1.1.9
+Date: 2019-05-06
 Title: The Bimodality Index
 Author: Kevin R. Coombes
 Maintainer: Kevin R. Coombes <krc@silicovore.com>
@@ -16,6 +16,6 @@ LazyLoad: yes
 biocViews: Microarray
 URL: http://oompa.r-forge.r-project.org/
 NeedsCompilation: no
-Packaged: 2019-04-23 14:46:59 UTC; Kevin
+Packaged: 2019-05-06 16:43:11 UTC; Kevin Coombes
 Repository: CRAN
-Date/Publication: 2019-04-23 16:00:03 UTC
+Date/Publication: 2019-05-06 17:00:03 UTC
